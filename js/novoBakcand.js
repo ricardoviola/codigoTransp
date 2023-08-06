@@ -1,5 +1,16 @@
 const produtos = {
-    
+    celular:{
+        peso: 0.5,
+        quantidade: 500
+    },
+    Geladeira:{
+        peso: 60,
+        quantidade: 10
+    },
+    Freezer:{
+        peso: 100,
+        quantidade: 5
+    }
 }
 
 function calcularPesoProdutoQuantidade() {
